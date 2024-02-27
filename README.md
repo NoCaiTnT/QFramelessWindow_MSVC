@@ -5,5 +5,9 @@
 Windows:
 1. Qt Creator 12.0.1 (Community)
 2. Qt 6.6.1
-3. MSVC 2019 64bit
-4. Add qwindowkit/bin to PATH
+3. NASM 2.16.01
+4. Windows SDK 10.0.20348.0
+5. MSVC 2019 64bit
+6. CMake 3.27.7
+7. Ninja 1.10.2
+8. Add qwindowkit/bin to PATH
